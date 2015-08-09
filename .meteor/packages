@@ -9,3 +9,5 @@ autopublish
 insecure
 accounts-ui
 accounts-github
+accounts-base
+accounts-password
